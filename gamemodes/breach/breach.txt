@@ -1,0 +1,7 @@
+"breach"
+{
+	"base"		"base"
+	"title"		"SCP: Project Breach"
+	"category"	"Combat"
+
+}
